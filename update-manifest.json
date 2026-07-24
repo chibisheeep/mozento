@@ -3,6 +3,6 @@
   "versionCode": 363,
   "versionName": "1.0.363-debug",
   "updateUrl": "https://github.com/chibisheeep/mozento/releases/latest/download/mozento-debug.apk",
-  "releaseNotes": "Debug build 89c9975",
-  "publishedAt": "2026-07-24T11:25:22Z"
+  "releaseNotes": "帳戶餘額校正 + lint baseline 更新 89c9975",
+  "publishedAt": "2026-07-24T12:22:36Z"
 }
