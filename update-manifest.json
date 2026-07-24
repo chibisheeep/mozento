@@ -3,6 +3,6 @@
   "versionCode": 362,
   "versionName": "1.0.362-debug",
   "updateUrl": "https://github.com/chibisheeep/mozento/releases/latest/download/mozento-debug.apk",
-  "releaseNotes": "帳戶餘額校正 + 起始欄位收斂 a991adf",
-  "publishedAt": "2026-07-24T11:10:03Z"
+  "releaseNotes": "Debug build a991adf",
+  "publishedAt": "2026-07-24T11:12:13Z"
 }
