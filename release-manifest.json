@@ -1,8 +1,8 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 420,
-  "versionName": "1.0.420",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v1.0.420-420/mozento-release.apk",
-  "releaseNotes": "Release build cfc02c9",
-  "publishedAt": "2026-07-27T02:34:04Z"
+  "versionCode": 431,
+  "versionName": "1.0.431",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v1.0.431-431/mozento-release.apk",
+  "releaseNotes": "Release build 1fb89d4",
+  "publishedAt": "2026-07-29T12:58:08Z"
 }
