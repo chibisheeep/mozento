@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 480,
-  "versionName": "1.0.480",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v1.0.480-480/mozento-release.apk",
-  "releaseNotes": "Release build 96c8750",
-  "backupRequired": false,
-  "backupReason": "",
-  "publishedAt": "2026-08-16T09:41:58Z"
+  "versionCode": 483,
+  "versionName": "1.0.483",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v1.0.483-483/mozento-release.apk",
+  "releaseNotes": "Release build ad3eb08",
+  "backupRequired": true,
+  "backupReason": "此版本涉及資料庫、設定資料結構或備份設定變更，更新前請先備份。",
+  "publishedAt": "2026-08-16T09:52:00Z"
 }
