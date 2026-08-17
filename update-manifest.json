@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app.debug",
-  "versionCode": 487,
-  "versionName": "1.0.487-debug",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/debug-v1.0.487-487/mozento-debug.apk",
-  "releaseNotes": "Debug build 9323d4e",
+  "versionCode": 488,
+  "versionName": "1.0.488-debug",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/debug-v1.0.488-488/mozento-debug.apk",
+  "releaseNotes": "Debug build 9495d6c",
   "backupRequired": false,
   "backupReason": "",
-  "publishedAt": "2026-08-16T19:47:21Z"
+  "publishedAt": "2026-08-17T09:09:55Z"
 }
