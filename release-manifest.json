@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 487,
-  "versionName": "1.0.487",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v1.0.487-487/mozento-release.apk",
-  "releaseNotes": "修正彈窗關閉後畫面無法操作",
+  "versionCode": 496,
+  "versionName": "1.0.496",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v1.0.496-496/mozento-release.apk",
+  "releaseNotes": "fix: separate future expenses and defer swipe delete",
   "backupRequired": true,
   "backupReason": "此版本涉及資料庫、設定資料結構或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-08-16T20:01:05Z"
+  "publishedAt": "2026-08-18T01:13:50Z"
 }
