@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 548,
-  "versionName": "2.0.35",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.0.35-548/mozento-release.apk",
-  "releaseNotes": "Release 2.0.35: secondary market-value action",
+  "versionCode": 557,
+  "versionName": "2.1.0",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.0-557/mozento-release.apk",
+  "releaseNotes": "Release 2.1.0",
   "backupRequired": true,
   "backupReason": "此版本涉及資料庫 schema/migration、破壞性資料操作或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-09-03T14:20:42Z"
+  "publishedAt": "2026-09-05T17:36:55Z"
 }
