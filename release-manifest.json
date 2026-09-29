@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 608,
-  "versionName": "2.1.51",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.51-608/mozento-release.apk",
-  "releaseNotes": "新增達標獎勵與儲蓄里程碑；整理預算與資產操作及文案；統一數字輸入、精度與動畫，修正下一欄被鍵盤遮擋；新增通知記帳入口，改善淺色主題與金黃色提示。更新前請先備份。",
+  "versionCode": 613,
+  "versionName": "2.1.56",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.56-613/mozento-release.apk",
+  "releaseNotes": "總覽改以今日與本週剩餘額協助掌握支出；調整週末設定文案；更新 App 圖示並修正桌面圖示留白。",
   "backupRequired": true,
   "backupReason": "此版本涉及資料庫 schema/migration、破壞性資料操作或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-09-26T02:11:12Z"
+  "publishedAt": "2026-09-29T20:30:51Z"
 }
