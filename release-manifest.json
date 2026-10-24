@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 613,
-  "versionName": "2.1.56",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.56-613/mozento-release.apk",
-  "releaseNotes": "總覽改以今日與本週剩餘額協助掌握支出；調整週末設定文案；更新 App 圖示並修正桌面圖示留白。",
+  "versionCode": 631,
+  "versionName": "2.1.74",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.74-631/mozento-release.apk",
+  "releaseNotes": "首頁本週預算與波浪進度更新；桌面捷徑直達總覽；達標獎勵可累積及使用；修正獎勵視窗重建後的輸入保留；精簡畫面文案。更新前請先匯出備份。",
   "backupRequired": true,
   "backupReason": "此版本涉及資料庫 schema/migration、破壞性資料操作或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-09-29T20:30:51Z"
+  "publishedAt": "2026-10-24T09:39:11Z"
 }
