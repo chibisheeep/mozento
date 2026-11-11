@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 631,
-  "versionName": "2.1.74",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.74-631/mozento-release.apk",
-  "releaseNotes": "首頁本週預算與波浪進度更新；桌面捷徑直達總覽；達標獎勵可累積及使用；修正獎勵視窗重建後的輸入保留；精簡畫面文案。更新前請先匯出備份。",
+  "versionCode": 632,
+  "versionName": "2.1.75",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.75-632/mozento-release.apk",
+  "releaseNotes": "改善通知記帳入口、專案到期提醒與預算調整導向。",
   "backupRequired": true,
   "backupReason": "此版本涉及資料庫 schema/migration、破壞性資料操作或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-10-24T09:39:11Z"
+  "publishedAt": "2026-11-11T06:28:13Z"
 }
