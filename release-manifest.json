@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 632,
-  "versionName": "2.1.75",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.75-632/mozento-release.apk",
-  "releaseNotes": "改善通知記帳入口、專案到期提醒與預算調整導向。",
-  "backupRequired": true,
-  "backupReason": "此版本涉及資料庫 schema/migration、破壞性資料操作或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-11-11T06:28:13Z"
+  "versionCode": 633,
+  "versionName": "2.1.76",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.76-633/mozento-release.apk",
+  "releaseNotes": "Release build 2bbd2bc",
+  "backupRequired": false,
+  "backupReason": "",
+  "publishedAt": "2026-11-26T14:50:42Z"
 }
