@@ -4,7 +4,7 @@
   "versionName": "2.1.76",
   "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.76-633/mozento-release.apk",
   "releaseNotes": "Release build 2bbd2bc",
-  "backupRequired": false,
-  "backupReason": "",
+  "backupRequired": true,
+  "backupReason": "此版本涉及資料庫升級與備份機制變更，更新前請先備份。",
   "publishedAt": "2026-11-26T14:50:42Z"
 }
