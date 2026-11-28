@@ -1,10 +1,10 @@
 {
   "packageName": "com.mozento.app",
-  "versionCode": 634,
-  "versionName": "2.1.77",
-  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.77-634/mozento-release.apk",
-  "releaseNotes": "Release build 0f16907",
+  "versionCode": 635,
+  "versionName": "2.1.78",
+  "updateUrl": "https://github.com/chibisheeep/mozento/releases/download/release-v2.1.78-635/mozento-release.apk",
+  "releaseNotes": "Release build 0b78e60",
   "backupRequired": true,
   "backupReason": "此版本涉及資料庫 schema/migration、破壞性資料操作或備份設定變更，更新前請先備份。",
-  "publishedAt": "2026-11-27T15:53:28Z"
+  "publishedAt": "2026-11-28T07:10:03Z"
 }
